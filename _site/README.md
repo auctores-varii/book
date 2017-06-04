@@ -5,11 +5,11 @@ Book, a simple Jekyll theme. [Demo](http://kkninjae.github.io/book/)
 
 ### Screenshots
 
-![](http://kkninjae.github.io/book/assets/img/mobile.jpg)
+![](./assets/img/mobile.jpg)
 
-![](http://kkninjae.github.io/book/assets/img/desktop.jpg)
+![](./assets/img/desktop.jpg)
 
-![](http://kkninjae.github.io/book/assets/img/404.jpg)
+![](./assets/img/404.jpg)
 
 ### Features
 

@@ -1,10 +1,10 @@
-title: Book
-description: Programmer & Traveler.
-url: http://kkninjae.com
-avatar: /book/assets/img/avatar.jpg
-favicon: /assets/img/favicon.ico
-google_analytics: UA-66887095-1
-disqus_shortname: kkninjae
+title: I Tandura
+description: Tandura Storia
+url: http://tandura-storia.aavv.io
+avatar: http://tandura-storia.aavv.io/book/assets/img/avatar.jpg
+favicon: http://tandura-storia.aavv.io/assets/img/favicon.ico
+google_analytics: UA-xxxx-1
+disqus_shortname: xxxx
 
 about:
   - paragraph: ?link?, a simple Jekyll theme. Built by ?link?
